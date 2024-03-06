@@ -23,7 +23,7 @@ alloy-primitives.workspace = true
 
 async-stream = "0.3.5"
 async-trait.workspace = true
-auto_impl = "1.1.0"
+auto_impl = "1.2"
 futures.workspace = true
 lru = "0.12.2"
 reqwest.workspace = true
